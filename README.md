@@ -36,7 +36,7 @@ After implementing both approaches, a comparative analysis was performed to eval
 
 - [Anime Recommendation (Data Mining Approach)](https://github.com/yassine-saoud/anime_recommandation/blob/main/anime_recommandation_data_mining_approach.ipynb): Detailed notebook covering the data mining approach.
 - [Anime Recommendation (NLP Approach)](https://github.com/yassine-saoud/anime_recommandation/blob/main/anime_recommandation_using_NLP.ipynb): Comprehensive notebook explaining the NLP-based recommendation system.
-- [amine dataset] (https://github.com/yassine-saoud/anime_recommandation/blob/main/animes_dataset.csv)
+- [amine dataset](https://github.com/yassine-saoud/anime_recommandation/blob/main/animes_dataset.csv)
 
 
 ## Author
